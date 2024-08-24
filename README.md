@@ -36,6 +36,3 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 For questions or further information, please reach out to Nexus Coding Club.
 
-```
-
-This version provides a straightforward overview of the project and instructions for getting started, without listing specific features.
