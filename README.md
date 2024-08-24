@@ -1,6 +1,4 @@
-Certainly! Here's the updated `README.md` file for the Scientific Calculator project without the features section:
 
-```markdown
 # Scientific Calculator
 
 **Scientific Calculator** is a versatile calculator application developed by Nexus Coding Club, designed to perform a wide range of mathematical functions. Whether you need basic arithmetic, advanced scientific operations, or complex trigonometric calculations, this calculator is built to handle it all with precision and ease.
