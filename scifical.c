@@ -1,7 +1,7 @@
-// Welcome to scienTific calculaTor (V2) made by N.E.X.U.S Club
+// Welcome to scienTific calculaTor  kdfijodeiohsieguw (V2) made by N.E.X.U.S Club
 #include<stdio.h>
 #include<math.h>
-
+//ydiuqwaiuydwq
 int
 main ()
 {
